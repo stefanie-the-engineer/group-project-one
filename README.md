@@ -13,3 +13,14 @@ Here is a bar graph comparing the number of measles outbreaks over the years for
 
 ### Table
 ![Table_For_Country_By_Classification](Images/Measles_Outbreaks_By_Country_Income_Classification_Table.png)
+
+![!Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_By_Country_Wealth_Classification.png)
+![!Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_By_Country_Wealth_Classification.png)
+![!Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_By_Country_Wealth_Classification.png)
+![!Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_By_Country_Wealth_Classification.png)
+![!Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_By_Country_Wealth_Classification.png)
+![!Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_By_Country_Wealth_Classification.png)
+![!Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_By_Country_Wealth_Classification.png)
+![!Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_By_Country_Wealth_Classification.png)
+![!Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_By_Country_Wealth_Classification.png)
+![!Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_By_Country_Wealth_Classification.png)

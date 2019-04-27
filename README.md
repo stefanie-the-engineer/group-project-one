@@ -9,17 +9,17 @@ My team and I wanted to show that there has been a rise in vaccination increases
 Here we looked at several data sets including World Bank, the World Health Organization, the US Center for Disease Control and Prevention. Using the seperate data sets, my team and I merged some of these data sets together to answer the questions we asked.
 
 ## Hypothesis
+
 When starting our project, my team and I hypothesized that the vaccination rates here in the United States has increased as the number of measles cases has increased here in the United States and the rest of the world.
 
 ## Data Sets
+
 My team and I collected a plethora of data from various global organizations and US sources. Some of these data sources include but not limited to:
 * World Health Organization
 * World Bank
 * US Department of Health & Human Services Centers for Disease Control & Prevention
 
-## Conclusion & Findings
-
-## Around The World
+## Analysis - Around The World
 
 ### Reported Measles Cases By Country Wealth Classification (2015 - 2019)
 
@@ -31,7 +31,7 @@ Here is a bar graph comparing the number of measles outbreaks over the years for
 ###### Table - Measles Cases By Country Wealth Classification (2015 - 2019)
 ![Table_For_Country_By_Classification](Images/Measles_Outbreaks_By_Country_Income_Classification_Table.png)
 
-## In The United States
+## Analysis - The United States
 
 ### Reported Measles Cases In The United States
 
@@ -65,3 +65,17 @@ Here is a bar graph comparing the number of measles outbreaks over the years for
 
 ###### Bar Graph - Immunization Rates By States (2016)
 ![Bar_Graph_For_US_States_With_Exemptions](Images/Percentage_Of_States_With_Immunization_Exemptions.png)
+
+## Conclusion & Findings
+
+###### Measles Cases In Countries In Given Income Groups
+
+###### Measles Cases In The United States
+
+###### Measles Cases In The United States
+
+##### Vaccination Rates In The United States
+
+##### Vaccination Rates In US States
+
+##### US States With Religous Or Philosophical Exemptions

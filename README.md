@@ -9,7 +9,7 @@ Here we looked at several data sets including World Bank, the World Health Organ
 Here is a bar graph comparing the number of measles outbreaks over the years for different countries included in their respective wealth classification. And the table is also included to show the data in numbers.
 
 ### Bar Graph
-[!Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_By_Country_Wealth_Classification.png)
+![!Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_By_Country_Wealth_Classification.png)
 
 ### Table
-[!Bar_Graph_For_Country_By_Classification](Images/Measles_Outbreaks_By_Country_Income_Classification_Table.png)
+![Table_For_Country_By_Classification](Images/Measles_Outbreaks_By_Country_Income_Classification_Table.png)

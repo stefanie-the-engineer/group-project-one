@@ -71,17 +71,3 @@ My team and I collected a plethora of data from various global organizations and
 
 ###### Bar Graph - Immunization Rates By States (2016)
 ![Bar_Graph_For_US_States_With_Exemptions](Images/Percentage_Of_States_With_Immunization_Exemptions.png)
-
-## Conclusion & Findings
-
-###### Measles Cases In Countries In Given Income Groups
-
-###### Measles Cases In The United States
-
-###### Measles Cases In The United States
-
-##### Vaccination Rates In The United States
-
-##### Vaccination Rates In US States
-
-##### US States With Religous Or Philosophical Exemptions

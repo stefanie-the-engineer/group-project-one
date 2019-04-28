@@ -23,13 +23,19 @@ My team and I collected a plethora of data from various global organizations and
 
 ### Reported Measles Cases By Country Wealth Classification (2015 - 2019)
 
-Here is a bar graph comparing the number of measles outbreaks over the years for different countries included in their respective wealth classification. And the table is also included to show the data in numbers.
-
 ###### Stacked Bar Graph - Measles Cases By Country Wealth Classification (2015 - 2019)
 ![Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_By_Country_Wealth_Classification.png)
 
-###### Table - Measles Cases By Country Wealth Classification (2015 - 2019)
-![Table_For_Country_By_Classification](Images/Measles_Outbreaks_By_Country_Income_Classification_Table.png)
+### Reported Measles Cases By Region (2015 - 2019)
+
+###### Bar Graph - Measles Cases By Global Region (2015 - 2019)
+![Bar_Graph_For_Country_By_Region](Images/Measles_Cases_By_Region.png)
+
+###### Bar Graph - Measles Cases By The Americas (2015 - 2019)
+![Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_In_The_Americas.png)
+
+###### Bar Graph - Measles Cases In The Middle East (2015 - 2019)
+![Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_In_EMR.png.png)
 
 ## Analysis - The United States
 
@@ -56,7 +62,7 @@ Here is a bar graph comparing the number of measles outbreaks over the years for
 ![Bar_Graph_For_Immunization_Rates_By_States_2014](Images/2014_States_Immunization_Rate.png)
 
 ###### Bar Graph - Immunization Rates By States (2015)
-![Bar_Graph_For_Immunization_Rates_By_States_2015](Images/2015_States_Immunization Rate.png)
+![Bar_Graph_For_Immunization_Rates_By_States_2015](Images/2015_States_Immunization_Rate.png)
 
 ###### Bar Graph - Immunization Rates By States (2016)
 ![Bar_Graph_For_Immunization_Rates_By_States_2016](Images/2016_States_Immunization_Rate.png)

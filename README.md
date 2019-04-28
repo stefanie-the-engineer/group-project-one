@@ -35,7 +35,7 @@ My team and I collected a plethora of data from various global organizations and
 ![Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_In_The_Americas.png)
 
 ###### Bar Graph - Measles Cases In The Middle East (2015 - 2019)
-![Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_In_EMR.png.png)
+![Bar_Graph_For_Country_By_Classification](Images/Measles_Cases_In_EMR.png)
 
 ## Analysis - The United States
 
